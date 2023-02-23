@@ -1,0 +1,45 @@
+html{
+    background-image: radial-gradient(circle at -4.17% 4.55%, #ff73ff 0, #d058ff 25%,
+    #9138ff 50% , #361eeb 75%, #0017dd 100%);
+}
+body{
+    color: black;
+    font-size: 20px;
+}
+body::-webkit-scrollbar {
+    width: 10px
+} 
+  
+body::-webkit-scrollbar-thumb {   
+background-color: orchid;   
+}
+.foto{
+    margin-top: -1%;
+    margin-right: auto;
+    display: flex;
+    width: 20%;
+}
+.foto{
+    margin-top: -1%;
+    margin-right: auto;
+    display: flex;
+    width: 20%;
+}
+.contato{
+    text-decoration-line: none;
+    font-size: 20px;
+    display: flex;
+}
+a{
+    color: orchid;
+}
+.btn-fixed{
+    position: fixed;
+    bottom: 60px;
+    right: 5px;
+    color: orchid;
+}
+footer{
+    width: 100%;
+    text-align: center;
+    }

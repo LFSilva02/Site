@@ -1,0 +1,50 @@
+html{
+    background-image: radial-gradient(circle at 50% 50%, #d47ddf 0, #b368dc 16.67%, 
+    #8a54d8 33.33%, #4d42d4 50%, #0036d0 66.67%, #0030cc 83.33%, #002dc8 100%);
+}
+body{
+    color: orchid;
+    font-size: 20px;
+}
+h1{
+    color: black;
+}
+h2{
+    color: orchid;
+}
+body::-webkit-scrollbar {
+    width: 10px
+} 
+body::-webkit-scrollbar-thumb {   
+background-color: orchid;   
+}
+.foto{
+    margin-top: 0%;
+    width: 3%;
+    border-radius: 50%;
+}
+.github{
+    text-decoration-style: none;
+    font-size: 13px;
+    display: flex;
+}
+.linkedin{
+    text-decoration-style: none;
+    font-size: 13px;
+    display: flex;
+}
+a{
+    color: orchid;
+}
+.btn-fixed{
+    position: fixed;
+    bottom: 60px;
+    right: 5px;
+    color: orchid;
+    
+}
+footer{
+    width: 100%;
+    text-align: center;
+
+    }
